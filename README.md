@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/tip-calculator-app-vanilla-js-solution-8BJt2rUt4F)
 - Live Site URL: [Click Here](https://splendid-semolina-4ee4ac.netlify.app/)
 
 ## My process
